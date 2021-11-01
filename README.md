@@ -1,7 +1,6 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <!-- https://www.vectorlogo.zone/ -->
 <!-- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-<p style="text-align: center">
 
 <h3 align="center">👋 Hi  there, I'm Jonathan Ro</h3>
 
@@ -11,7 +10,7 @@ I'm working to turn my goal of becoming a web developer into a reality. Solving 
 
 <h3 align="center">Languages:</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
 
 <h3 align="center">Tools:</h3>
 
@@ -37,4 +36,3 @@ I'm working to turn my goal of becoming a web developer into a reality. Solving 
 
 <a href="https://www.linkedin.com/in/jonro2955/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="git" width="40" height="40"/> </a>
 
- </p>
