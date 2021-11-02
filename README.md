@@ -18,6 +18,8 @@ I'm working to turn my goal of becoming a web developer into a reality. Solving 
 
 <h3>Some of my works:</h3> 
 
+[Weather App](https://jonro2955.github.io/odin_javascript_5_weather_app/)
+
 [Tic Tac Toe ](https://jonro2955.github.io/odin_javascript_2_tictactoe/)
 
 [To Do List](https://jonro2955.github.io/odin_javascript_4_todo_list/)
@@ -26,7 +28,6 @@ I'm working to turn my goal of becoming a web developer into a reality. Solving 
 
 [Battleship](https://jonro2955.github.io/odin_javascript_7_battleship/)
 
-[Weather App](https://jonro2955.github.io/odin_javascript_5_weather_app/)
 
 <h3>Email:</h3> 
 
