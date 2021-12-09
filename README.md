@@ -8,14 +8,21 @@
 
 I'm working to turn my goal of becoming a web developer into a reality. Solving problems is what makes me happy. I’m currently working on **[The Odin Project](https://www.theodinproject.com/)**.
 
+
 <h3>Some of my works:</h3> 
 
 [Battleship](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/)
+
 [Weather App](https://jonro2955.github.io/odin_javascript_5_weather_app/)
+
 [Tic Tac Toe](https://jonro2955.github.io/odin_javascript_2_tictactoe/)
+
 [To Do List](https://jonro2955.github.io/odin_javascript_4_todo_list/)
+
 [Etch A Sketch](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/)
+
 [Battleship](https://jonro2955.github.io/odin_javascript_7_battleship/)
+
 
 <h3>Languages:</h3>
 
