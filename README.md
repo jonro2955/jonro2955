@@ -15,6 +15,8 @@ I'm working to turn my goal of becoming a web developer into a reality. Solving 
 
 [Weather App](https://jonro2955.github.io/odin_javascript_5_weather_app/)
 
+[Library App](https://jonro2955.github.io/odin_javaScript_1_library/)
+
 [Tic Tac Toe](https://jonro2955.github.io/odin_javascript_2_tictactoe/)
 
 [To Do List](https://jonro2955.github.io/odin_javascript_4_todo_list/)
