@@ -11,9 +11,7 @@ Solving problems is what makes me happy. I’m currently working on full stack J
 
 <h3>Some of my works:</h3> 
 
-<a href="https://jonro2955.github.io/odin_javascript_7_battleship_2.0/" target="_blank">Battleship</a>
-
-[Battleship](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/)
+[Battleship](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/){:target="_blank"}
 
 [Weather App](https://jonro2955.github.io/odin_javascript_5_weather_app/)
 
