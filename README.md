@@ -22,3 +22,4 @@ I’m currently working on full stack JavaScript developer projects on **[The Od
 <span><a href="https://www.linkedin.com/in/jonro2955/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="git" width="40" height="40"/></a></span>
 <span><a href="mailto:jonro.2955@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="git" width="40" height="40"/></a></span>
 
+A bit about me: 
