@@ -8,9 +8,7 @@
 
 I’m currently working on full stack JavaScript developer projects on **[The Odin Project](https://www.theodinproject.com/)** and **[Free Code Camp](https://www.freecodecamp.org/)**. You can click on the links below to try out the different web applications that I've made. Many of them are fun games, and I hope you'll enjoy playing them!
 
-[Battleship](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/)
-
-[Weather App](https://jonro2955.github.io/odin_javascript_5_weather_app/)
+[Battleship](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) [Weather App](https://jonro2955.github.io/odin_javascript_5_weather_app/)
 
 [Library App](https://jonro2955.github.io/odin_javaScript_1_library/)
 
