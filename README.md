@@ -6,10 +6,7 @@
 
 ---
 
-Solving problems is what makes me happy. I’m currently working on full stack JavaScript developer projects on **[The Odin Project](https://www.theodinproject.com/)** and **[Free Code Camp](https://www.freecodecamp.org/)**.
-
-
-<h3>Some of my works:</h3> 
+I’m currently working on full stack JavaScript developer projects on **[The Odin Project](https://www.theodinproject.com/)** and **[Free Code Camp](https://www.freecodecamp.org/)**. You can click on the links below to try out the different web applications that I've made. Many of them are fun games, and I hope you'll enjoy playing them!
 
 [Battleship](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/)
 
@@ -23,6 +20,17 @@ Solving problems is what makes me happy. I’m currently working on full stack J
 
 [Etch A Sketch](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/)
 
+[Image Slideshow](https://jonro2955.github.io/odin_javascript_4.1_DUI/)
+
+[Restaurant Website](https://jonro2955.github.io/odin_javascript_3_restaurant_page/)
+
+[Library App](https://jonro2955.github.io/odin_javaScript_1_library/)
+
+[Calculator](https://jonro2955.github.io/odin_foundations_5_calculator/)
+
+[Rock Paper Scissors](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/)
+
+[Google Homepage Clone](https://jonro2955.github.io/odin_foundations_2_google_homepage/)
 
 <h3>Languages:</h3>
 
