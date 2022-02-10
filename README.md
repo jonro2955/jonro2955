@@ -6,7 +6,7 @@
 
 ---
 
-I'm working to turn my goal of becoming a web developer into a reality. Solving problems is what makes me happy. I’m currently working on **[The Odin Project](https://www.theodinproject.com/)**.
+Solving problems is what makes me happy. I’m currently working on full stack JavaScript developer projects on **[The Odin Project](https://www.theodinproject.com/)** and **[Free Code Camp](https://www.freecodecamp.org/)**.
 
 
 <h3>Some of my works:</h3> 
