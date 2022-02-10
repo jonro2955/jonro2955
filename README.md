@@ -36,5 +36,5 @@ Solving problems is what makes me happy. I’m currently working on full stack J
 
 <a href="https://www.linkedin.com/in/jonro2955/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<a href="jonro.2955@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="jonro.2955@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="git" width="43" height="43"/> </a>
 
