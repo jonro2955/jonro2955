@@ -25,8 +25,3 @@ I am a self taught web-developer-in-training building projects based primarily o
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/>](https://jasmine.github.io/) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>](https://jestjs.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.kernel.org/)
-
-<h3>Contact:</h3> 
-<span><a href="https://www.linkedin.com/in/jonro2955/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="git" width="40" height="40"/></a></span>
-<span><a href="mailto:jonro.2955@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="git" width="40" height="40"/></a></span>
-
