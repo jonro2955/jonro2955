@@ -51,9 +51,7 @@ You can click on the live hosted site links below to try out the different appli
 
 [To Do List](https://jonro2955.github.io/odin_javascript_4_todo_list/) / [Repository](https://github.com/jonro2955/odin_javascript_4_todo_list) 
 
-[Etch A Sketch](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) / [Repository](https://github.com/jonro2955/odin_foundations_4_etch_a_sketch) 
-
-[Image Slideshow](https://jonro2955.github.io/odin_javascript_4.1_DUI/) / [Repository](https://github.com/jonro2955/odin_javascript_4.1_DUI) 
+[Etch A Sketch](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) / [Repository](https://github.com/jonro2955/odin_foundations_4_etch_a_sketch)  
 
 [Restaurant Website](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) / [Repository](https://github.com/jonro2955/odin_javascript_3_restaurant_page) 
 
