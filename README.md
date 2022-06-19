@@ -2,7 +2,7 @@
 <!-- https://www.vectorlogo.zone/ -->
 <!-- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 
-<h3 align="center">👋 Hi  there, I'm Jonathan Ro</h3>
+<h3 align="center">👋 Hi, I'm Jonathan Ro</h3>
 
 ---
 
