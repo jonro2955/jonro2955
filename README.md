@@ -27,7 +27,7 @@ I am a self taught web-developer building projects based primarily on **[The Odi
 
 <h3>My Projects:</h3>
 
-You can click on the live hosted site links below to try out the different applications that I've made. Many of them are fun games, and I hope you'll enjoy playing them!
+You can click on any of the live hosted site links below to try out the different applications that I've made. Many of them are fun games, and I hope you'll enjoy playing them!
  
 [My Movie Database](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
 
