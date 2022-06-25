@@ -6,7 +6,7 @@
 
 ---
 
-I am a self taught web-developer building projects based primarily on **[The Odin Project](https://www.theodinproject.com/)**, as well as contributing to its **[Repository](https://github.com/jonro2955/theodinproject)**. 
+I am a front end web developer from Metro Vancouver, BC, Canada. 
 
 <h3>Languages and tools:</h3>
 
