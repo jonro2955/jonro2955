@@ -6,7 +6,7 @@
 
 ---
 
-I am a front end web developer from Metro Vancouver, BC, Canada. 
+I am a front end web developer based in Metro Vancouver, BC, Canada. 
 
 <h3>Languages and tools:</h3>
 
