@@ -1,6 +1,4 @@
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<!-- https://www.vectorlogo.zone/ -->
-<!-- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+<!-- https://devicon.dev/ -->
 
 <h3 align="center">👋 Hi, I'm Jonathan Ro</h3>
 
@@ -20,14 +18,13 @@ I am a front end web developer based in Metro Vancouver, BC, Canada.
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>](https://www.npmjs.com/) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>](https://webpack.js.org/) 
 [<img src="https://github.com/prplx/svg-logos/blob/master/svg/materialize.svg" alt="materializecss" width="40" height="40"/>](https://materializecss.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/>](https://jasmine.github.io/) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>](https://jestjs.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.kernel.org/)
 
 
 <h3>My Projects:</h3>
-
-You can click on any of the live hosted links below to try out the different applications that I've made. Many of them are fun games, and I hope you'll enjoy playing them!
  
 [My Movie Database](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
 
