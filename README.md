@@ -31,13 +31,13 @@ You can click on any of the live hosted links below to try out the different app
  
 [My Movie Database](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
 
+[Shopping Cart](https://jonro2955.github.io/my_pc_store/) / [Repository](https://github.com/jonro2955/odin_javascript_10_shopping_cart) 
+
 [Where's Waldo?](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) / [Repository](https://github.com/jonro2955/odin_javascript_11_wheres_waldo) 
 
-[Shopping Cart](https://jonro2955.github.io/odin_javascript_10_shopping_cart) / [Repository](https://github.com/jonro2955/odin_javascript_10_shopping_cart) 
+[Memory Game](https://jonro2955.github.io/odin_javascript_9_memory_card/) / [Repository](https://github.com/jonro2955/my_pc_store) 
 
 [Fortnite Shop](https://jonro2955.github.io/fortnite-shop-react-router-practice/) / [Repository](https://github.com/jonro2955/fortnite-shop-react-router-practice) 
-
-[Memory Game](https://jonro2955.github.io/odin_javascript_9_memory_card/) / [Repository](https://github.com/jonro2955/odin_javascript_9_memory_card) 
 
 [CV Application](https://jonro2955.github.io/odin_javascript_8_cv_application/) / [Repository](https://github.com/jonro2955/odin_javascript_8_cv_application) 
 
