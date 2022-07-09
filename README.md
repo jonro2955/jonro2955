@@ -26,7 +26,7 @@ I am a front end web developer based in Metro Vancouver, BC, Canada.
 
 <h3>My Projects: </h3>
 
-<h5>The live links on the left will lead you to the hosted websites for each project. The repository links will lead you to the project's README on Github.</h5>
+<h5>The live links on the left will lead you to the hosted websites for each project. The repository links on the right will lead you to the project's README on Github.</h5>
  
 [My Movie Database](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
 
