@@ -36,8 +36,6 @@ I am a front end web developer based in Metro Vancouver, BC, Canada.
 
 [Battleship](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) / [Repository](https://github.com/jonro2955/odin_javascript_7_battleship_2.0) 
 
-[Memory Game](https://jonro2955.github.io/odin_javascript_9_memory_card/) / [Repository](https://github.com/jonro2955/my_pc_store) 
-
 [Etch A Sketch](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) / [Repository](https://github.com/jonro2955/odin_foundations_4_etch_a_sketch)  
 
 [Fortnite Shop](https://jonro2955.github.io/fortnite-shop-react-router-practice/) / [Repository](https://github.com/jonro2955/fortnite-shop-react-router-practice) 
@@ -47,6 +45,8 @@ I am a front end web developer based in Metro Vancouver, BC, Canada.
 [Library App](https://jonro2955.github.io/odin_javaScript_1_library/) / [Repository](https://github.com/jonro2955/odin_javaScript_1_library) 
 
 [To Do List](https://jonro2955.github.io/odin_javascript_4_todo_list/) / [Repository](https://github.com/jonro2955/odin_javascript_4_todo_list) 
+
+[Memory Game](https://jonro2955.github.io/odin_javascript_9_memory_card/) / [Repository](https://github.com/jonro2955/my_pc_store) 
 
 [Restaurant Website](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) / [Repository](https://github.com/jonro2955/odin_javascript_3_restaurant_page) 
 
