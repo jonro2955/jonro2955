@@ -4,7 +4,7 @@
 
 ---
 
-I am a front end web developer based in Metro Vancouver, BC, Canada. 
+I am a front end web developer based in Metro Vancouver, BC, Canada. Please feel free to review all of the web applications that I have created below.
 
 <h3>Languages and tools:</h3>
 
