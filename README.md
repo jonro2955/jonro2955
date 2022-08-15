@@ -6,24 +6,6 @@
 
 I am a front end web developer based in Metro Vancouver, BC, Canada. Please feel free to review all of the web applications that I have created below.
 
-<h3>Languages and tools:</h3>
-
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>](https://www.npmjs.com/) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>](https://webpack.js.org/) 
-[<img loading="lazy" src="https://github.com/prplx/svg-logos/blob/master/svg/materialize.svg" alt="materializecss" width="40" height="40"/>](https://materializecss.com/)
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/>](https://jasmine.github.io/) 
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>](https://jestjs.io/)
-[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.kernel.org/)
-
-
 <h3>My Projects: </h3>
  
 [My Movie Database](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
@@ -57,4 +39,21 @@ I am a front end web developer based in Metro Vancouver, BC, Canada. Please feel
 [Rock Paper Scissors](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) / [Repository](https://github.com/jonro2955/odin_foundations_3_rock_paper_scissors) 
 
 [Google Clone](https://jonro2955.github.io/odin_foundations_2_google_homepage/) / [Repository](https://github.com/jonro2955/odin_foundations_2_google_homepage)
+
+<h3>Languages and tools:</h3>
+
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>](https://www.npmjs.com/) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>](https://webpack.js.org/) 
+[<img loading="lazy" src="https://github.com/prplx/svg-logos/blob/master/svg/materialize.svg" alt="materializecss" width="40" height="40"/>](https://materializecss.com/)
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/>](https://jasmine.github.io/) 
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>](https://jestjs.io/)
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.kernel.org/)
 
