@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-Thank you for visiting my Github page! I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, created and deployed. Please feel free to try out the live links and examine their code repositories.
+Thank you for visiting my Github page! I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, created and deployed. Please feel free to try out the live links below and examine their code repositories.
 </div>
 
 ---
