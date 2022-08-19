@@ -21,9 +21,14 @@
 
 ---
 
-Thank you for visiting my Github page! I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, programmed and deployed. Please feel free to try out the live links and examine the code repositories.
+<div align="center">
+Thank you for visiting my Github page! I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, created and deployed. Please feel free to try out the live links and examine their code repositories.
+</div>
 
- 
+---
+
+<div align="center">
+  
 [My Movie Database](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
 
 [My PC Store](https://jonro2955.github.io/my_pc_store/) / [Repository](https://github.com/jonro2955/my_pc_store) 
@@ -55,3 +60,5 @@ Thank you for visiting my Github page! I am a front end web developer based in M
 [Rock Paper Scissors](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) / [Repository](https://github.com/jonro2955/odin_foundations_3_rock_paper_scissors) 
 
 [Google Clone](https://jonro2955.github.io/odin_foundations_2_google_homepage/) / [Repository](https://github.com/jonro2955/odin_foundations_2_google_homepage)
+
+ </div>
