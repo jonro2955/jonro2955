@@ -4,7 +4,7 @@
 
 ---
 
-Thank you for visiting my Github page! I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, programmed and deployed. Please feel free to try out the live links and examine the repositories.
+Thank you for visiting my Github page! I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, programmed and deployed. Please feel free to try out the live links and examine the code repositories.
 
  
 [My Movie Database](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
