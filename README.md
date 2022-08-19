@@ -18,6 +18,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </h3>
+
 ---
 
 Thank you for visiting my Github page! I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, programmed and deployed. Please feel free to try out the live links and examine the code repositories.
