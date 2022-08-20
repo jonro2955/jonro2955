@@ -1,6 +1,6 @@
 <!-- https://devicon.dev/ -->
 
-<h3 align="center">👋 Hi, I'm Jonathan Ro</h3>
+<h1 align="center">👋 Hi, I'm Jonathan Ro</h1>
 
 <h3 align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -19,13 +19,13 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </h3>
 
----
 
-<div align="center">
+
+<h2 align="center">
 Thank you for visiting my Github page. I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web develpment projects that I have designed, developed and deployed. Please feel free to try out the live links or examine the repositories.
-</div>
+</h2>
 
----
+
 
 <div align="center">
   
