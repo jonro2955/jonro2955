@@ -21,9 +21,9 @@
 
 
 
-<h2 align="center">
-Thank you for visiting my Github page. I am a front end web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web development projects that I have created. Please feel free to try out the live links or examine the repositories. I have created more applications than those that are listed here. All are available in the "Repositories" tab above.
-</h2>
+<div align="center">
+Thank you for visiting my Github page. I am a front end web developer based in Metro Vancouver, BC, Canada. I have a background in customer service and business administration, but I have found a calling in software development where I can use structured thought processes to create customized solutions to unique problems. Listed below are some of the web development projects that I have created. Please feel free to try out the live links or examine the repositories. I have created more applications than those that are listed here. All are available in the "Repositories" tab above.
+</div>
 
 
 
