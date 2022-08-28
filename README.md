@@ -28,10 +28,10 @@ Thank you for visiting my Github page. I am a front end web developer based in M
 
 
 <div align="center">
-  
-My Movie Database: [Live Site](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
 
 My PC Store: [Live Site](https://jonro2955.github.io/my_pc_store/) / [Repository](https://github.com/jonro2955/my_pc_store) 
+
+My Movie Database: [Live Site](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
 
 AI Tic Tac Toe: [Live Site](https://jonro2955.github.io/odin_javascript_2_tictactoe/) / [Repository](https://github.com/jonro2955/odin_javascript_2_tictactoe) 
 
