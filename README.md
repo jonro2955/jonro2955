@@ -49,7 +49,7 @@ Library App: [Live Site](https://jonro2955.github.io/odin_javaScript_1_library/)
 
 To Do List: [Live Site](https://jonro2955.github.io/odin_javascript_4_todo_list/) / [Repository](https://github.com/jonro2955/odin_javascript_4_todo_list) 
 
-Memory Game: [Live Site](https://jonro2955.github.io/odin_javascript_9_memory_card/) / [Repository](https://github.com/jonro2955/my_pc_store) 
+Memory Card Game: [Live Site](https://jonro2955.github.io/odin_javascript_9_memory_card/) / [Repository](https://github.com/jonro2955/odin_javascript_9_memory_card) 
 
 Restaurant Website: [Live Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) / [Repository](https://github.com/jonro2955/odin_javascript_3_restaurant_page) 
 
