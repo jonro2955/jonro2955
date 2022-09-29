@@ -22,7 +22,7 @@
 
 
 <h5 align="center">
-Thank you for visiting my Github page. I am a web developer based in Metro Vancouver, BC, Canada. Listed below are some of the web development projects that I have created. Please feel free to try out my live websites or examine their repositories. You can view all of my repositories in the "Repositories" tab above.
+Thank you for visiting my Github page. I am a web developer based in Metro Vancouver, BC, Canada. Listed below are some of the projects that I have created. Please feel free to try out my live websites or examine their repositories!
 </h5>
 
 
