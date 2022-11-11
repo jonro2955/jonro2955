@@ -29,7 +29,7 @@ Thank you for visiting my Github page. I am a web developer based in Metro Vanco
 
 <div align="center">
  
-Job Tracker (Under Construction):[Live Site](https://jonro2955.github.io/job-tracker-client/) / [Repository]([https://github.com/jonro2955/my_pc_store](https://github.com/jonro2955/job-tracker-client)) 
+Job Tracker (Under Construction):[Live Site](https://jonro2955.github.io/job-tracker-client/) / [Repository](https://github.com/jonro2955/job-tracker-client) 
 
 My PC Store: [Live Site](https://jonro2955.github.io/my_pc_store/) / [Repository](https://github.com/jonro2955/my_pc_store) 
 
