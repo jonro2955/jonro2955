@@ -24,6 +24,11 @@
 <div align="center">
  
 Job Tracker (Under Construction): [Live Site](https://jonro2955.github.io/job-tracker-client/) 
+ 
+
+https://user-images.githubusercontent.com/74517218/201491556-8422296b-70e5-4e50-aaa2-9ec7ac7c5c2b.mp4
+
+
 
 My PC Store: [Live Site](https://jonro2955.github.io/my_pc_store/) / [Repository](https://github.com/jonro2955/my_pc_store) 
 
