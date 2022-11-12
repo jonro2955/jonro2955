@@ -2,7 +2,7 @@
 
 ## 👋&nbsp; Hi, I'm Jonathan
 
-Thanks for visiting my GitHub page! I'm a full stack web developer based in Metro Vancouver, British Columbia, Canada. My mission is to create the best software for people, day after day.
+Thanks for visiting my GitHub page! I'm a full stack web developer based in Metro Vancouver, British Columbia, Canada. I began building my web development skills after becoming facinated from using wordpress CMS systems to build static websites. I knew that these skills lead to some of the best opportunities for people to create value in the world for the forseeable future. I find the work, challenges and lifestyle very fulfilling, so I have decided to go  all in and persevere no matter the obstacle. My mission is to create the best software for people, day after day.
 
 What I use daily &nbsp;💪 ---------->&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)&nbsp;![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
@@ -40,11 +40,14 @@ This React web application will allow job seekers to save all details of every s
 
 # My PC Store: 
 
-This React web application written in TypeScript simulates a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and check out using a visually appleaing and performant website.
+This React web application written in TypeScript simulates a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appeaing, high-performance website.
 
 [Live Preview Site](https://jonro2955.github.io/my_pc_store/) 
 
 # My Movie Database: 
+
+This full stack web application uses React, Firebase and a 3rd party API called The Movie Database (TMDB api) to allow users to search, review, and save
+movies from over 800,000 titles.
 
 [Live Preview Site](https://mmdb-97518.web.app) 
 
