@@ -2,7 +2,7 @@
 
 ## 👋&nbsp; Hi, I'm Jonathan
 
-Thanks for visiting my GitHub page! I'm a full stack web developer based in Metro Vancouver, British Columbia, Canada. I began building my web development skills after becoming facinated from using wordpress CMS systems to build static websites. I knew that these skills lead to some of the best opportunities for people to create value in the world for the forseeable future. I find the work, challenges and lifestyle very fulfilling, so I have decided to go  all in and persevere no matter the obstacle. My mission is to create the best software for people, day after day.
+Thanks for visiting my GitHub page! I'm a full stack web developer based in Metro Vancouver, British Columbia, Canada. I began building my web development skills after becoming facinated from using wordpress CMS systems to build beautiful websites. I knew that skills in web development can lead to some of the best opportunities for people to create value in the world for the forseeable future. I find the work, challenges and lifestyle very fulfilling, so I have decided to go all in and persevere no matter the obstacle. My mission is to create the best software for people, day after day.
 
 What I use daily &nbsp;💪 ---------->&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)&nbsp;![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
@@ -28,13 +28,13 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
 
 -----
 
-### Here are some of my projects:
+### Here are some of my projects
 
 # Job Tracker (Under active development): 
  
 https://user-images.githubusercontent.com/74517218/201491642-33621221-dfa3-4447-af6c-17b3bdce406d.mp4
 
-This React web application will allow job seekers to save all details of every single job application they make online in order to manage their job search better. It will store things like the job description, application PDF files, user's own notes, and dates in an efficient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
+This PERN (Postgres, Express, React, Node) application will allow job seekers to save all details of every single job application they make online in order to manage their job search better. It will store things like the job description, application PDF files, URLs, notes, and dates in an efficient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
@@ -46,40 +46,56 @@ This React web application written in TypeScript simulates a mock ecommerce stor
 
 # My Movie Database: 
 
-This full stack web application uses React, Firebase and a 3rd party API called The Movie Database (TMDB api) to allow users to search, review, and save
+This full stack web application uses React, Firebase and a 3rd party API called The Movie Database (TMDB) API to allow users to search, review, and save
 movies from over 800,000 titles.
 
 [Live Preview Site](https://mmdb-97518.web.app) 
 
 # AI Tic Tac Toe: 
 
+This tic-tac-toe game uses the minimax algorithm in JavaScript to power the computer player's AI and gives the user 3 difficulty settings.
+
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_2_tictactoe/) 
 
 # Where's Waldo?: 
+
+This app implements an interactive version of the "Where's Waldo?", a game where players try to find several visual elements obscured inside of a picture.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
 
 # Battleship: 
 
+This is an interactive battleship game played against a computer opponent. It features a drag and drop ship placement interface and a semi-smart computer opponent.
+
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) 
 
 # Etch A Sketch: 
+
+This is a web based etch-a-sketch drawing toy built using HTML, CSS and vanilla JS.
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
 
 # Fortnite Shop: 
 
+This is a multi-page website built using ReactJS and the react-router-dom plugin to practice the techniques involved in ReactJS routing. The site fetches data from a fortnite content API and displays their details.
+
 [Live Preview Site](https://jonro2955.github.io/fortnite-shop-react-router-practice/) 
 
 # CV Application: 
+
+This is a resume template built using React. The app provides a visually appealing resume design template on which users can create their resume. Each part can be edited and then the entire document can be printed to PDF and saved onto the user's local computer.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_8_cv_application/)
 
 # Library App: 
 
+This is a virtual library app that allows users to store book information either on the user's device memory or in the cloud. 
+
 [Live Preview Site](https://jonro2955.github.io/odin_javaScript_1_library/) 
 
 # To Do List: 
+
+This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts. It uses the Google Firebase SDK to implement the backend database and authentication.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
 
