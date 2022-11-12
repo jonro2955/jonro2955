@@ -95,34 +95,42 @@ This is a virtual library app that allows users to store book information either
 
 # To Do List: 
 
-This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts. It uses the Google Firebase SDK to implement the backend database and authentication.
+This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts.  
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
 
 # Memory Card Game: 
 
-This project is a game built using React. The goal is to demonstrate my understanding of ReactJS functional components, hooks, state management and lifecycle methods.
+This project is a game that tests your short term memory.  
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_9_memory_card/) 
 
 # Restaurant Website: 
 
-This is a mock restaurant website that is dynamically rendered using JavaScript and Webpack. 
+This is a mock restaurant website that is dynamically rendered using JavaScript.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
 
 # Calculator: 
 
+This is a calculator written from scratch in JavaScript and styled using pure CSS.
+
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_5_calculator/) 
 
 # Weather App: 
+
+This app uses a third part API to fetch weather data from any city in the word.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_5_weather_app/) 
 
 # Rock Paper Scissors: 
 
+This is an interactive rock-paper-scissors game written in JavaScript.
+
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) 
 
 # Google Clone: 
+
+This is a pixel-perfect clone of the Google search homepage written in HTML and CSS.
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_2_google_homepage/) 
