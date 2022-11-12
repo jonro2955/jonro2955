@@ -19,13 +19,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </h5>
 
-
-
-<h5 align="center">
-Thank you for visiting my Github page. I am a web developer based in Metro Vancouver, BC, Canada. Listed below are some of the projects that I have created. Please feel free to try out my live websites or examine their repositories!
-</h5>
-
-
+<h5 align="center" class="bio"></h5>
 
 <div align="center">
  
