@@ -40,7 +40,7 @@ This is a PERN stack (Postgres, Express, React, Node) application that allows jo
 
 # My PC Store: 
 
-This React web application written in TypeScript simulates a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appeaing, high-performance website.
+This React web application written in TypeScript simulates a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
 
 [Live Preview Site](https://jonro2955.github.io/my_pc_store/) 
 
