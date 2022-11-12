@@ -19,7 +19,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </h5>
 
-<h5 align="center" class="bio"></h5>
+<h3 align="center" class="bio">I am an aspiring web developer who loves solving all kinds of web-related problems. I'm able to do front-end design/development using React as well as some back end development using Node, Express and relational or non-relational databases. I'm always creating projects to develop my skills, and I have made most of them them available for you to try on this page. Simply click the live links below to test out my apps!</h3>
 
 <div align="center">
  
