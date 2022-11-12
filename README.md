@@ -28,7 +28,7 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
 
 -----
 
-### Here are some of my projects
+### Here are some of my projects.
 
 # Job Tracker (Under active development): 
  
