@@ -34,7 +34,7 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
  
 https://user-images.githubusercontent.com/74517218/201491642-33621221-dfa3-4447-af6c-17b3bdce406d.mp4
 
-This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save all details of every single job application they make online in order to manage their job search better. It will store things like the job description, application PDF files, URLs, notes, and dates in an convenient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
+This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save the details of every single job application they make in a clear and convenient way order to manage their job search better. It will store things like the job description, application PDF files, URLs, notes, and dates in an convenient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
