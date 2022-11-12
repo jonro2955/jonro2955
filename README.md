@@ -23,7 +23,7 @@
 
 <div align="center">
  
-<h3>Job Tracker (Under Construction): [Live Site](https://jonro2955.github.io/job-tracker-client/) </h3>
+<h3>Job Tracker (Under Construction): </h3> [Live Site](https://jonro2955.github.io/job-tracker-client/) 
  
 https://user-images.githubusercontent.com/74517218/201491642-33621221-dfa3-4447-af6c-17b3bdce406d.mp4
 
