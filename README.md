@@ -34,7 +34,7 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
  
 https://user-images.githubusercontent.com/74517218/201491642-33621221-dfa3-4447-af6c-17b3bdce406d.mp4
 
-This PERN (Postgres, Express, React, Node) application will allow job seekers to save all details of every single job application they make online in order to manage their job search better. It will store things like the job description, application PDF files, URLs, notes, and dates in an efficient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
+This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save all details of every single job application they make online in order to manage their job search better. It will store things like the job description, application PDF files, URLs, notes, and dates in an convenient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
@@ -101,9 +101,13 @@ This is a web app that lets users create to-do lists and store them in the cloud
 
 # Memory Card Game: 
 
+This project is a game built using React. The goal is to demonstrate my understanding of ReactJS functional components, hooks, state management and lifecycle methods.
+
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_9_memory_card/) 
 
 # Restaurant Website: 
+
+This is a mock restaurant website that is dynamically rendered using JavaScript and Webpack. 
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
 
