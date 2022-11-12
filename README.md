@@ -34,40 +34,42 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
  
 https://user-images.githubusercontent.com/74517218/201491642-33621221-dfa3-4447-af6c-17b3bdce406d.mp4
 
-This React web application will allow job seekers to save all details of every single job application they make online in order to manage their job search better. It will store the job descriptions, application PDF files, application notes, and dates in an efficient and easy to use manner. It will index all application entries in a PostgreSQL database to aid users in saving, reading, updating, and deleting job application information.
+This React web application will allow job seekers to save all details of every single job application they make online in order to manage their job search better. It will store things like the job description, application PDF files, user's own notes, and dates in an efficient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
-My PC Store: [Live Preview Site](https://jonro2955.github.io/my_pc_store/) / [Repository](https://github.com/jonro2955/my_pc_store) 
+# My PC Store: 
 
-My Movie Database: [Live Preview Site](https://mmdb-97518.web.app) / [Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)
+This React web application written in TypeScript simulates a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and check out using a visually appleaing and performant website.
 
-AI Tic Tac Toe: [Live Preview Site](https://jonro2955.github.io/odin_javascript_2_tictactoe/) / [Repository](https://github.com/jonro2955/odin_javascript_2_tictactoe) 
+[Live Preview Site](https://jonro2955.github.io/my_pc_store/) 
 
-Where's Waldo?: [Live Preview Site](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) / [Repository](https://github.com/jonro2955/odin_javascript_11_wheres_waldo) 
+# My Movie Database: [Live Preview Site](https://mmdb-97518.web.app) 
 
-Battleship: [Live Preview Site](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) / [Repository](https://github.com/jonro2955/odin_javascript_7_battleship_2.0) 
+# AI Tic Tac Toe: [Live Preview Site](https://jonro2955.github.io/odin_javascript_2_tictactoe/) 
 
-Etch A Sketch: [Live Preview Site](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) / [Repository](https://github.com/jonro2955/odin_foundations_4_etch_a_sketch)  
+# Where's Waldo?: [Live Preview Site](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
 
-Fortnite Shop: [Live Preview Site](https://jonro2955.github.io/fortnite-shop-react-router-practice/) / [Repository](https://github.com/jonro2955/fortnite-shop-react-router-practice) 
+# Battleship: [Live Preview Site](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) 
 
-CV Application: [Live Preview Site](https://jonro2955.github.io/odin_javascript_8_cv_application/) / [Repository](https://github.com/jonro2955/odin_javascript_8_cv_application) 
+# Etch A Sketch: [Live Preview Site](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
 
-Library App: [Live Preview Site](https://jonro2955.github.io/odin_javaScript_1_library/) / [Repository](https://github.com/jonro2955/odin_javaScript_1_library) 
+# Fortnite Shop: [Live Preview Site](https://jonro2955.github.io/fortnite-shop-react-router-practice/) 
 
-To Do List: [Live Preview Site](https://jonro2955.github.io/odin_javascript_4_todo_list/) / [Repository](https://github.com/jonro2955/odin_javascript_4_todo_list) 
+# CV Application: [Live Preview Site](https://jonro2955.github.io/odin_javascript_8_cv_application/)
 
-Memory Card Game: [Live Preview Site](https://jonro2955.github.io/odin_javascript_9_memory_card/) / [Repository](https://github.com/jonro2955/odin_javascript_9_memory_card) 
+# Library App: [Live Preview Site](https://jonro2955.github.io/odin_javaScript_1_library/) 
 
-Restaurant Website: [Live Preview Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) / [Repository](https://github.com/jonro2955/odin_javascript_3_restaurant_page) 
+# To Do List: [Live Preview Site](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
 
-Calculator: [Live Preview Site](https://jonro2955.github.io/odin_foundations_5_calculator/) / [Repository](https://github.com/jonro2955/odin_foundations_5_calculator) 
+# Memory Card Game: [Live Preview Site](https://jonro2955.github.io/odin_javascript_9_memory_card/) 
 
-Weather App: [Live Preview Site](https://jonro2955.github.io/odin_javascript_5_weather_app/) / [Repository](https://github.com/jonro2955/odin_javascript_5_weather_app) 
+# Restaurant Website: [Live Preview Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
 
-Rock Paper Scissors: [Live Preview Site](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) / [Repository](https://github.com/jonro2955/odin_foundations_3_rock_paper_scissors) 
+# Calculator: [Live Preview Site](https://jonro2955.github.io/odin_foundations_5_calculator/) 
 
-Google Clone: [Live Preview Site](https://jonro2955.github.io/odin_foundations_2_google_homepage/) / [Repository](https://github.com/jonro2955/odin_foundations_2_google_homepage)
+# Weather App: [Live Preview Site](https://jonro2955.github.io/odin_javascript_5_weather_app/) 
 
-<!--  </div> -->
+# Rock Paper Scissors: [Live Preview Site](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) 
+
+# Google Clone: [Live Preview Site](https://jonro2955.github.io/odin_foundations_2_google_homepage/) 
