@@ -1,4 +1,5 @@
 <!-- All badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://unicode-table.com/en/ -->
 
 ## 👋&nbsp; Hi, I'm Jonathan
 
