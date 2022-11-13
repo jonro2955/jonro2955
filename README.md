@@ -23,7 +23,7 @@ Things I've used before &nbsp;🛠 &nbsp;![Python](https://img.shields.io/badge/
 -----
 
 
-### I'm looking for people to collaborate on projects with and companies to work for. Please free to reach out to me:
+### I'm looking for work and collaboration opportunities. Please free to reach out to me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonro2955/)](https://www.linkedin.com/in/russell-salonen-721513216/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:russ.salonen@gmail.com)](mailto:jonro.2955@gmail.com)
 
