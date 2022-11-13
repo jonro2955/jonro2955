@@ -31,7 +31,7 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
 
 ### Here are some of my projects.
 
-# Job Tracker (Under active development): 
+# Job Tracker (Under active development - building the back end): 
  
 https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
 
