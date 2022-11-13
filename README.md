@@ -35,7 +35,7 @@ Things I've used before &nbsp;🛠 &nbsp;![MySQL](https://img.shields.io/badge/M
  
 https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
 
-This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save the details of each job application they make inside of a custom web application that is specifically designed for the purpose of managing you job application data. For each job application, it will store things like the job description, URLs, notes, dates, resumes and cover letters, in a convenient and easy to use manner to enable searching, reading, and updating of the variable job application data. Please note that this preview is not how the finished version will look, as both the front and back ends are still under active development.
+This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save the details of each job application they make inside of a custom web application that is specifically designed for the purpose of managing your job application data. For each job application, it will store things like the job description, URLs, notes, dates, resumes and cover letters, in a convenient and easy to use manner to enable searching, reading, and updating of the variable job application data. Please note that this preview is not how the finished version will look, as both the front and back ends are still under active development.
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
