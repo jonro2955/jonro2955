@@ -68,11 +68,13 @@ This tic-tac-toe game uses the minimax algorithm in JavaScript to power the comp
 
 https://user-images.githubusercontent.com/74517218/201502748-2132caf8-f26a-4e4c-9a7b-c02e9052263a.mp4
 
-This app implements an interactive version of the "Where's Waldo?", a game where players try to find several visual elements obscured inside of a picture.
+This app implements an interactive version of the "Where's Waldo?" game book, where players try to find several visual elements obscured inside of a picture.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
 
 # Battleship: 
+
+https://user-images.githubusercontent.com/74517218/201502862-d742825f-6fe6-45c9-9643-a1ce8ebe8e51.mp4
 
 This is an interactive battleship game played against a computer opponent. It features a drag and drop ship placement interface and a semi-smart computer opponent.
 
