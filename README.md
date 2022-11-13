@@ -33,13 +33,15 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
 
 # Job Tracker (Under active development): 
  
-https://user-images.githubusercontent.com/74517218/201491642-33621221-dfa3-4447-af6c-17b3bdce406d.mp4
+https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
 
-This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save the details of every single job application they make in a clear and convenient way order to manage their job search better. It will store things like the job descriptions, application PDF files, URLs, notes, and dates in an convenient and easy to use manner for searching, reading, and updating job application information. (Please note that this preview is not how the finished version will look, as it is still under active development).
+This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save the details of each job application they make in a custom web application to manage their job search better. It will store things like the job descriptions, resume and cover letter PDF files used for each application, URLs, notes, and dates in an convenient and easy to use manner to enable searching, reading, and updating job application data. (Please note that this preview is not how the finished version will look, as it is still under active development).
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
 # My PC Store: 
+
+
 
 This React web application written in TypeScript simulates a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
 
