@@ -49,6 +49,8 @@ This React web application written in TypeScript simulates a mock ecommerce stor
 
 # My Movie Database: 
 
+https://user-images.githubusercontent.com/74517218/201501836-0780e8f5-6e89-4e9d-9d3c-16f9edc87c04.mp4
+
 This full stack web application uses React, Firebase and a 3rd party API called The Movie Database (TMDB) API to allow users to search, review, and save
 movies from over 800,000 titles.
 
