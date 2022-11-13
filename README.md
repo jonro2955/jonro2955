@@ -58,9 +58,7 @@ movies from over 800,000 titles.
 
 # AI Tic Tac Toe: 
 
-
-https://user-images.githubusercontent.com/74517218/201502417-c8e8c030-66bc-4874-ad66-84ac58bc6476.mp4
-
+https://user-images.githubusercontent.com/74517218/201502526-b1c9a358-437e-4175-bda5-82a36785b674.mp4
 
 This tic-tac-toe game uses the minimax algorithm in JavaScript to power the computer player's AI and gives the user 3 difficulty settings.
 
