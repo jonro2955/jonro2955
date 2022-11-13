@@ -31,11 +31,11 @@ What I've used before &nbsp;🛠--->&nbsp;![MySQL](https://img.shields.io/badge/
 
 ### Here are some of my projects.
 
-# Job Tracker (Under active development - building the back end): 
+# Job Tracker (Under active development): 
  
 https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
 
-This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save the details of each job application they make in a custom web application, in order to manage their job search better. It will store for each job application things like the job description, resume and cover letter PDF files used, URLs, notes, and dates in an convenient and easy to use manner to enable searching, reading, and updating job application data. (Please note that this preview is not how the finished version will look, as it is still under active development).
+This is a PERN stack (Postgres, Express, React, Node) application that allows job seekers to save the details of each job application they make in a custom web application, in order to manage their job search better. For each job application, it will store things like the job description, resume and cover letter PDF files used, URLs, notes, and dates in a convenient and easy to use manner to enable searching, reading, and updating of the variable job application data. Please note that this preview is not how the finished version will look, as both the front and back ends are still under active development.
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
@@ -82,17 +82,20 @@ This is an interactive battleship game played against a computer opponent. It fe
 
 # Etch A Sketch: 
 
+
+https://user-images.githubusercontent.com/74517218/201503144-745c6b86-c541-4df8-8c91-c4a7e4a28eeb.mp4
+
+
 This is a web based etch-a-sketch drawing toy built using HTML, CSS and vanilla JS.
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
 
-# Fortnite Shop: 
-
-This is a multi-page website built using ReactJS and the react-router-dom plugin to practice the techniques involved in ReactJS routing. The site fetches data from a fortnite content API and displays their details.
-
-[Live Preview Site](https://jonro2955.github.io/fortnite-shop-react-router-practice/) 
 
 # CV Application: 
+
+
+https://user-images.githubusercontent.com/74517218/201503327-e7c946e8-30a5-4f42-a479-0ecc40dc063f.mp4
+
 
 This is a resume template built using React. The app provides a visually appealing resume design template on which users can create their resume. Each part can be edited and then the entire document can be printed to PDF and saved onto the user's local computer.
 
