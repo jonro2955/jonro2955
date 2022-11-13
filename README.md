@@ -68,7 +68,7 @@ This tic-tac-toe game uses the minimax algorithm in JavaScript to power the comp
 
 https://user-images.githubusercontent.com/74517218/201502748-2132caf8-f26a-4e4c-9a7b-c02e9052263a.mp4
 
-This app implements an interactive version of the "Where's Waldo?" game book, where players try to find several visual elements obscured inside of a picture.
+This app implements an interactive version of the "Where's Waldo?" game book, where players try to find things hidden inside of a picture.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
 
