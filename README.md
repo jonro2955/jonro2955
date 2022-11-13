@@ -86,7 +86,7 @@ This is an interactive battleship game played against a computer opponent. It fe
 https://user-images.githubusercontent.com/74517218/201503144-745c6b86-c541-4df8-8c91-c4a7e4a28eeb.mp4
 
 
-This is a web based etch-a-sketch drawing toy built using HTML, CSS and vanilla JS.
+This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS.
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
 
@@ -97,11 +97,15 @@ This is a web based etch-a-sketch drawing toy built using HTML, CSS and vanilla 
 https://user-images.githubusercontent.com/74517218/201503327-e7c946e8-30a5-4f42-a479-0ecc40dc063f.mp4
 
 
-This is a resume template built using React. The app provides a visually appealing resume design template on which users can create their resume. Each part can be edited and then the entire document can be printed to PDF and saved onto the user's local computer.
+This is a resume template built using React. Each part can be conveniently edited and the document can then be saved as a PDF inside the user's local computer.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_8_cv_application/)
 
 # Library App: 
+
+
+https://user-images.githubusercontent.com/74517218/201503574-5a550e44-6325-411f-8ff3-7d20983b3e0a.mp4
+
 
 This is a virtual library app that allows users to store book information either on the user's device memory or in the cloud. 
 
@@ -109,11 +113,19 @@ This is a virtual library app that allows users to store book information either
 
 # To Do List: 
 
+
+https://user-images.githubusercontent.com/74517218/201503797-3b867db8-1020-4206-b62e-85b0ce81501f.mp4
+
+
 This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts.  
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
 
 # Memory Card Game: 
+
+
+https://user-images.githubusercontent.com/74517218/201505039-3ae51c1f-3256-4abd-bc84-e6ac3f761110.mp4
+
 
 This project is a game that tests your short term memory.  
 
@@ -121,11 +133,19 @@ This project is a game that tests your short term memory.
 
 # Restaurant Website: 
 
+
+https://user-images.githubusercontent.com/74517218/201505100-c3cab098-0ccb-445e-9646-979f1beb5ff9.mp4
+
+
 This is a mock restaurant website that is dynamically rendered using JavaScript.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
 
 # Calculator: 
+
+
+https://user-images.githubusercontent.com/74517218/201505173-f534879a-2566-41d0-9e46-d1ff7039ba1b.mp4
+
 
 This is a calculator written from scratch in JavaScript and styled using pure CSS.
 
@@ -133,17 +153,29 @@ This is a calculator written from scratch in JavaScript and styled using pure CS
 
 # Weather App: 
 
+
+https://user-images.githubusercontent.com/74517218/201505335-b7143799-6276-40b5-8f7c-d623d362d890.mp4
+
+
 This app uses a third part API to fetch weather data from any city in the word.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_5_weather_app/) 
 
 # Rock Paper Scissors: 
 
+
+https://user-images.githubusercontent.com/74517218/201505390-eef2fbd3-23da-42f5-b3f7-1bcf54ca9de5.mp4
+
+
 This is an interactive rock-paper-scissors game written in JavaScript.
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) 
 
 # Google Clone: 
+
+
+https://user-images.githubusercontent.com/74517218/201505504-3fc0eccf-f83c-4850-8167-96b109686717.mp4
+
 
 This is a pixel-perfect clone of the Google search homepage written in HTML and CSS.
 
