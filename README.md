@@ -76,7 +76,7 @@ This app implements an interactive version of the "Where's Waldo?" game book, wh
 
 https://user-images.githubusercontent.com/74517218/201502862-d742825f-6fe6-45c9-9643-a1ce8ebe8e51.mp4
 
-This is an interactive battleship game played against a computer opponent. It features a drag and drop ship placement interface and a semi-smart computer opponent.
+This is an interactive battleship game. It features a drag and drop ship placement interface and a semi-smart computer opponent.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) 
 
