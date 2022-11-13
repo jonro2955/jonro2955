@@ -29,9 +29,9 @@ Things I've used before &nbsp;🛠 &nbsp;![Python](https://img.shields.io/badge/
 
 -----
 
-### Here are some of my projects.
+### Here are some of my projects:
 
-# Job Tracker (under development): 
+# Job Tracker (under development) 
  
 https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
 
@@ -39,7 +39,7 @@ This is a PERN stack (Postgres, Express, React, Node) application that allows jo
 
 [Live Preview Site](https://jonro2955.github.io/job-tracker-client/) 
 
-# My PC Store: 
+# My PC Store
 
 https://user-images.githubusercontent.com/74517218/201500448-d9ecddc8-3719-492e-bfe5-5de30eb391a6.mp4
 
@@ -47,7 +47,7 @@ This React web application written in TypeScript is a mock ecommerce store selli
 
 [Live Preview Site](https://jonro2955.github.io/my_pc_store/) 
 
-# My Movie Database: 
+# My Movie Database 
 
 https://user-images.githubusercontent.com/74517218/201501836-0780e8f5-6e89-4e9d-9d3c-16f9edc87c04.mp4
 
@@ -56,7 +56,7 @@ movies from over 800,000 titles.
 
 [Live Preview Site](https://mmdb-97518.web.app) 
 
-# AI Tic Tac Toe: 
+# AI Tic Tac Toe 
 
 https://user-images.githubusercontent.com/74517218/201502603-7f05394a-e362-4ba3-aa60-e867f747966e.mp4
 
@@ -64,7 +64,7 @@ This tic-tac-toe game uses the minimax algorithm in JavaScript to power the comp
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_2_tictactoe/) 
 
-# Where's Waldo?: 
+# Where's Waldo? 
 
 https://user-images.githubusercontent.com/74517218/201502748-2132caf8-f26a-4e4c-9a7b-c02e9052263a.mp4
 
@@ -72,7 +72,7 @@ This app implements an interactive version of the "Where's Waldo?" game book, wh
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
 
-# Battleship: 
+# Battleship 
 
 https://user-images.githubusercontent.com/74517218/201502862-d742825f-6fe6-45c9-9643-a1ce8ebe8e51.mp4
 
@@ -80,7 +80,7 @@ This is an interactive battleship game. It features a drag and drop ship placeme
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) 
 
-# Etch A Sketch: 
+# Etch A Sketch 
 
 
 https://user-images.githubusercontent.com/74517218/201503144-745c6b86-c541-4df8-8c91-c4a7e4a28eeb.mp4
@@ -91,7 +91,7 @@ This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
 
 
-# CV Application: 
+# CV Application 
 
 
 https://user-images.githubusercontent.com/74517218/201503327-e7c946e8-30a5-4f42-a479-0ecc40dc063f.mp4
@@ -101,7 +101,7 @@ This is a resume template built using React. Each part can be conveniently edite
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_8_cv_application/)
 
-# Library App: 
+# Library App 
 
 
 https://user-images.githubusercontent.com/74517218/201503574-5a550e44-6325-411f-8ff3-7d20983b3e0a.mp4
@@ -111,7 +111,7 @@ This is a virtual library app that allows users to store book information either
 
 [Live Preview Site](https://jonro2955.github.io/odin_javaScript_1_library/) 
 
-# To Do List: 
+# To Do List 
 
 
 https://user-images.githubusercontent.com/74517218/201503797-3b867db8-1020-4206-b62e-85b0ce81501f.mp4
@@ -121,7 +121,7 @@ This is a web app that lets users create to-do lists and store them in the cloud
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
 
-# Memory Card Game: 
+# Memory Card Game 
 
 
 https://user-images.githubusercontent.com/74517218/201505039-3ae51c1f-3256-4abd-bc84-e6ac3f761110.mp4
@@ -131,7 +131,7 @@ This project is a game that tests your short term memory.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_9_memory_card/) 
 
-# Restaurant Website: 
+# Restaurant Website
 
 
 https://user-images.githubusercontent.com/74517218/201505100-c3cab098-0ccb-445e-9646-979f1beb5ff9.mp4
@@ -141,7 +141,7 @@ This is a mock restaurant website that is dynamically rendered using JavaScript.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
 
-# Calculator: 
+# Calculator 
 
 
 https://user-images.githubusercontent.com/74517218/201505173-f534879a-2566-41d0-9e46-d1ff7039ba1b.mp4
@@ -151,7 +151,7 @@ This is a calculator written from scratch in JavaScript and styled using pure CS
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_5_calculator/) 
 
-# Weather App: 
+# Weather App 
 
 
 https://user-images.githubusercontent.com/74517218/201505335-b7143799-6276-40b5-8f7c-d623d362d890.mp4
@@ -161,7 +161,7 @@ This app uses a third part API to fetch weather data from any city in the word.
 
 [Live Preview Site](https://jonro2955.github.io/odin_javascript_5_weather_app/) 
 
-# Rock Paper Scissors: 
+# Rock Paper Scissors 
 
 
 https://user-images.githubusercontent.com/74517218/201505390-eef2fbd3-23da-42f5-b3f7-1bcf54ca9de5.mp4
@@ -171,7 +171,7 @@ This is an interactive rock-paper-scissors game written in JavaScript.
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) 
 
-# Google Clone: 
+# Google Clone 
 
 
 https://user-images.githubusercontent.com/74517218/201505504-3fc0eccf-f83c-4850-8167-96b109686717.mp4
