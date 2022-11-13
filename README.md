@@ -177,6 +177,6 @@ This is an interactive rock-paper-scissors game written in JavaScript.
 https://user-images.githubusercontent.com/74517218/201505504-3fc0eccf-f83c-4850-8167-96b109686717.mp4
 
 
-This is a pixel-perfect clone of the Google search homepage written in HTML and CSS.
+This is my attempt at creating a pixel-perfect clone of the Google search homepage using nothing but HTML and CSS.
 
 [Live Preview Site](https://jonro2955.github.io/odin_foundations_2_google_homepage/) 
