@@ -43,7 +43,7 @@ This is a PERN stack (Postgres, Express, React, Node) application that allows jo
 
 https://user-images.githubusercontent.com/74517218/201500448-d9ecddc8-3719-492e-bfe5-5de30eb391a6.mp4
 
-This React web application written in TypeScript simulates a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
+This React web application written in TypeScript is a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
 
 [Live Preview Site](https://jonro2955.github.io/my_pc_store/) 
 
