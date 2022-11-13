@@ -16,7 +16,7 @@ Things I've used before &nbsp;🛠 &nbsp;![Python](https://img.shields.io/badge/
 ### What I love:
 
 🗪 &nbsp;open communication,  
-🤝 &nbsp;supportive teamwork,   
+🤝 &nbsp;respecting opinions,   
 🙋 &nbsp;problem solving, &   
 🔎 &nbsp;attention to  detail        
 
