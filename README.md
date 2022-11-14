@@ -36,7 +36,7 @@ Things I've used before &nbsp;🛠 &nbsp;![Python](https://img.shields.io/badge/
  
 https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
 
-This PERN stack (Postgres, Express, React, Node) application allows job seekers to save the details of each job application they make while searching for a job. Unlike a typical spreadsheet, this application gives users a custom interface that is optimized for managing such data. For each job application, it will store the job description, URLs, notes, dates, resumes + cover letters and more in a PostgreSQL + Express back end. The PostgreSQL database will enable stable storage, search, filtering, reading, and updating capabilities for job application data. Please note that this preview is not how the finished version will look, as both the front and back ends are still under active development.
+This PERN stack (Postgres, Express, React, Node) application allows job seekers to save the details of each job application they make while searching for a job. Unlike a typical spreadsheet, this application gives users a custom interface that is optimized for managing such data. For each job application, it will store the job description, URLs, notes, dates, resumes + cover letters and more in a PostgreSQL + Express server back end. The PostgreSQL database will enable stable storage, search, filtering, reading, and updating capabilities for job application data. Please note that this preview is not how the finished version will look, as both the front and back ends are still under active development.
 
 [Job Tracker](https://jonro2955.github.io/job-tracker-client/) 
 
