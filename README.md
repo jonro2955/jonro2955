@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/74517218/201500448-d9ecddc8-3719-492e-
 
 [![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/my_pc_store/) 
 
-This React web application written in TypeScript is a mock ecommerce store selling gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
+This React web application written in TypeScript is a mock ecommerce store that sells gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
 
 
 ### My Movie Database 
