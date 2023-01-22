@@ -15,10 +15,10 @@ Things I've used before &nbsp;🛠 :<br/> ![Python](https://img.shields.io/badge
 
 ### What I love:
 
-🙋 &nbsp;open communication,  
-🤝 &nbsp;respecting opinions,   
-💡 &nbsp;problem solving, &   
-🔎 &nbsp;attention to  detail        
+🙋 &nbsp;Open communication,  
+🤝 &nbsp;Respecting opinions,   
+💡 &nbsp;Problem solving, &   
+🔎 &nbsp;Attention to  detail        
 
 -----
 
