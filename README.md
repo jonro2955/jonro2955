@@ -23,7 +23,7 @@ Things I've used before &nbsp;🛠 :<br/> ![Python](https://img.shields.io/badge
 -----
 
 
-### I'm looking for work and collaboration opportunities. Please free to reach out to me:
+### I'm open to work and collaboration opportunities. Please free to reach out to me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan_Ro-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonro2955/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-jonro.2955@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:jonro.2955@gmail.com)
 
