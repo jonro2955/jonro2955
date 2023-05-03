@@ -37,7 +37,7 @@ Things I've used before &nbsp;🛠 :<br/> ![Sass](https://img.shields.io/badge/S
  
 https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
 
-This PERN stack (Postgres, Express, React, Node) application allows job seekers to save the details of each job application they make while searching for a job. Unlike a typical spreadsheet used by many job seekers, this application provides users a convenient browser interface that makes it easy to store and view such data. It will store data such as the company names, job titles, job descriptions, URLs, research notes, dates, resumes, cover letters and more. In addition, it provides powerful search and fitering capabilities that helps to speed up tedious tasks.
+This PERN stack (Postgres, Express, React, Node) application allows job seekers to save the details of each job application they make while searching for a job. Unlike a typical spreadsheet used by many job seekers, this application provides users a convenient browser interface that makes it easy to store and view such data. It will store data such as the company names, job titles, job descriptions, URLs, research notes, dates, resumes, cover letters and more. In addition, it provides powerful search and fitering capabilities that helps to speed up tedious tasks.  
 [Front-End Code Repository](https://github.com/jonro2955/job-tracker-client)  
 [Back-End Code Repository](https://github.com/jonro2955/job-tracker-server)  
 
@@ -46,7 +46,7 @@ This PERN stack (Postgres, Express, React, Node) application allows job seekers 
 
 https://user-images.githubusercontent.com/74517218/201500448-d9ecddc8-3719-492e-bfe5-5de30eb391a6.mp4
 
-This React web application written in TypeScript is a mock ecommerce store that sells gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
+This React web application written in TypeScript is a mock ecommerce store that sells gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.  
 [Live Site](https://jonro2955.github.io/my_pc_store/)  
 [Code Repository](https://github.com/jonro2955/my_pc_store)  
 
@@ -55,7 +55,7 @@ This React web application written in TypeScript is a mock ecommerce store that 
 https://user-images.githubusercontent.com/74517218/201501836-0780e8f5-6e89-4e9d-9d3c-16f9edc87c04.mp4
 
 This full stack web application uses React, Firebase and a 3rd party API called The Movie Database (TMDB) to allow users to search, review, and save
-movies from over 800,000 titles.
+movies from over 800,000 titles.  
 [Live Site](https://mmdb-97518.web.app)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_12_mmdb)  
 
@@ -63,7 +63,7 @@ movies from over 800,000 titles.
 
 https://user-images.githubusercontent.com/74517218/201502603-7f05394a-e362-4ba3-aa60-e867f747966e.mp4
 
-This tic-tac-toe game uses the minimax algorithm in JavaScript to power the computer player's AI and gives the user 3 difficulty settings.
+This tic-tac-toe game uses the minimax algorithm in JavaScript to power the computer player's AI and gives the user 3 difficulty settings.  
 [Live Site](https://jonro2955.github.io/odin_javascript_2_tictactoe/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_2_tictactoe)  
 
@@ -71,7 +71,7 @@ This tic-tac-toe game uses the minimax algorithm in JavaScript to power the comp
 
 https://user-images.githubusercontent.com/74517218/201502748-2132caf8-f26a-4e4c-9a7b-c02e9052263a.mp4
 
-This app implements an interactive version of the "Where's Waldo?" game book, where players try to find things hidden inside of a picture.
+This app implements an interactive version of the "Where's Waldo?" game book, where players try to find things hidden inside of a picture.  
 [Live Site](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_11_wheres_waldo)  
 
@@ -79,7 +79,7 @@ This app implements an interactive version of the "Where's Waldo?" game book, wh
 
 https://user-images.githubusercontent.com/74517218/201502862-d742825f-6fe6-45c9-9643-a1ce8ebe8e51.mp4
 
-This is an interactive battleship game. It features a drag and drop ship placement interface and a semi-smart computer opponent.
+This is an interactive battleship game. It features a drag and drop ship placement interface and a semi-smart computer opponent.  
 [Live Site](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_7_battleship_2.0)  
 
@@ -87,7 +87,7 @@ This is an interactive battleship game. It features a drag and drop ship placeme
 
 https://user-images.githubusercontent.com/74517218/201503144-745c6b86-c541-4df8-8c91-c4a7e4a28eeb.mp4
 
-This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS.
+This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS.  
 [Live Site](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/)  
 [Code Repository](https://github.com/jonro2955/odin_foundations_4_etch_a_sketch)  
 
@@ -95,7 +95,7 @@ This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS
 
 https://user-images.githubusercontent.com/74517218/201503327-e7c946e8-30a5-4f42-a479-0ecc40dc063f.mp4
 
-This is a resume template built using React. Each part can be conveniently edited and the document can then be saved as a PDF inside the user's local computer.
+This is a resume template built using React. Each part can be conveniently edited and the document can then be saved as a PDF inside the user's local computer.  
 [Live Site](https://jonro2955.github.io/odin_javascript_8_cv_application/) 
 [Code Repository](https://github.com/jonro2955/odin_javascript_8_cv_application)  
 
@@ -103,7 +103,7 @@ This is a resume template built using React. Each part can be conveniently edite
 
 https://user-images.githubusercontent.com/74517218/201503574-5a550e44-6325-411f-8ff3-7d20983b3e0a.mp4
 
-This is a virtual library app that allows users to store book information either on the user's device memory or in the cloud. 
+This is a virtual library app that allows users to store book information either on the user's device memory or in the cloud.   
 [Live Site](https://jonro2955.github.io/odin_javaScript_1_library/)  
 [Code Repository](https://github.com/jonro2955/odin_javaScript_1_library)  
 
@@ -112,7 +112,7 @@ This is a virtual library app that allows users to store book information either
 
 https://user-images.githubusercontent.com/74517218/201503797-3b867db8-1020-4206-b62e-85b0ce81501f.mp4
 
-This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts.  
+This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts.    
 [Live Site](https://jonro2955.github.io/odin_javascript_4_todo_list/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_4_todo_list)  
 
@@ -129,7 +129,7 @@ This project is a game that tests your short term memory.
 
 https://user-images.githubusercontent.com/74517218/201505100-c3cab098-0ccb-445e-9646-979f1beb5ff9.mp4
 
-This is a mock restaurant website that is dynamically rendered using JavaScript.
+This is a mock restaurant website that is dynamically rendered using JavaScript.  
 [Live Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_3_restaurant_page)  
 
@@ -138,7 +138,7 @@ This is a mock restaurant website that is dynamically rendered using JavaScript.
 
 https://user-images.githubusercontent.com/74517218/201505173-f534879a-2566-41d0-9e46-d1ff7039ba1b.mp4
 
-This is a calculator written from scratch in JavaScript and styled using pure CSS.
+This is a calculator written from scratch in JavaScript and styled using pure CSS.  
 [Live Site](https://jonro2955.github.io/odin_foundations_5_calculator/)  
 [Code Repository](https://github.com/jonro2955/odin_foundations_5_calculator)  
 
@@ -147,7 +147,7 @@ This is a calculator written from scratch in JavaScript and styled using pure CS
 
 https://user-images.githubusercontent.com/74517218/201505335-b7143799-6276-40b5-8f7c-d623d362d890.mp4
 
-This app uses a third part API to fetch weather data from any city in the word.
+This app uses a third part API to fetch weather data from any city in the word.  
 [Live Site](https://jonro2955.github.io/odin_javascript_5_weather_app/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_5_weather_app)  
 
@@ -156,7 +156,7 @@ This app uses a third part API to fetch weather data from any city in the word.
 
 https://user-images.githubusercontent.com/74517218/201505390-eef2fbd3-23da-42f5-b3f7-1bcf54ca9de5.mp4
 
-This is an interactive rock-paper-scissors game written in JavaScript.
+This is an interactive rock-paper-scissors game written in JavaScript.  
 [Live Site](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_9_memory_card)  
 
@@ -165,6 +165,6 @@ This is an interactive rock-paper-scissors game written in JavaScript.
 
 https://user-images.githubusercontent.com/74517218/201505504-3fc0eccf-f83c-4850-8167-96b109686717.mp4
 
-This is my attempt at creating a pixel-perfect clone of the Google search homepage using nothing but HTML and CSS.
+This is my attempt at creating a pixel-perfect clone of the Google search homepage using nothing but HTML and CSS.  
 [Live Site](https://jonro2955.github.io/odin_foundations_2_google_homepage/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_9_memory_card)  
