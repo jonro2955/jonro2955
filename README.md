@@ -39,7 +39,8 @@ https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-
 
 This PERN stack (Postgres, Express, React, Node) application allows job seekers to save the details of each job application they make while searching for a job. Unlike a typical spreadsheet, this application provides users a custom interface that is optimized for managing such data. For each job application, it will store the job description, URLs, research notes, dates, resumes, cover letters and more in a Postgres databse, which can then be searched, filtered, viewed and edited from a user-friendly React front end.
 
-[![websit](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/job-tracker-client/)
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/job-tracker-client/)
+
 
 ### My PC Store
 
@@ -47,7 +48,7 @@ https://user-images.githubusercontent.com/74517218/201500448-d9ecddc8-3719-492e-
 
 This React web application written in TypeScript is a mock ecommerce store that sells gaming PCs. Users can browse products, add items to a cart, and mock-check-out items inside of a visually appealing, high-performance website.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/my_pc_store/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/my_pc_store/) 
 
 ### My Movie Database 
 
@@ -56,7 +57,7 @@ https://user-images.githubusercontent.com/74517218/201501836-0780e8f5-6e89-4e9d-
 This full stack web application uses React, Firebase and a 3rd party API called The Movie Database (TMDB) to allow users to search, review, and save
 movies from over 800,000 titles.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mmdb-97518.web.app) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mmdb-97518.web.app) 
 
 
 ### AI Tic Tac Toe 
@@ -65,7 +66,7 @@ https://user-images.githubusercontent.com/74517218/201502603-7f05394a-e362-4ba3-
 
 This tic-tac-toe game uses the minimax algorithm in JavaScript to power the computer player's AI and gives the user 3 difficulty settings.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_2_tictactoe/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_2_tictactoe/) 
 
 
 ### Where's Waldo? 
@@ -74,7 +75,7 @@ https://user-images.githubusercontent.com/74517218/201502748-2132caf8-f26a-4e4c-
 
 This app implements an interactive version of the "Where's Waldo?" game book, where players try to find things hidden inside of a picture.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
 
 
 ### Battleship 
@@ -83,7 +84,7 @@ https://user-images.githubusercontent.com/74517218/201502862-d742825f-6fe6-45c9-
 
 This is an interactive battleship game. It features a drag and drop ship placement interface and a semi-smart computer opponent.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) 
 
 
 ### Etch A Sketch 
@@ -92,7 +93,7 @@ https://user-images.githubusercontent.com/74517218/201503144-745c6b86-c541-4df8-
 
 This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
 
 
 ### CV Application 
@@ -101,7 +102,7 @@ https://user-images.githubusercontent.com/74517218/201503327-e7c946e8-30a5-4f42-
 
 This is a resume template built using React. Each part can be conveniently edited and the document can then be saved as a PDF inside the user's local computer.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_8_cv_application/)
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_8_cv_application/)
 
 
 ### Library App 
@@ -119,7 +120,7 @@ https://user-images.githubusercontent.com/74517218/201503797-3b867db8-1020-4206-
 
 This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts.  
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
 
 
 ### Memory Card Game 
@@ -128,7 +129,7 @@ https://user-images.githubusercontent.com/74517218/201505039-3ae51c1f-3256-4abd-
 
 This project is a game that tests your short term memory.  
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_9_memory_card/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_9_memory_card/) 
 
 
 ### Restaurant Website
@@ -137,7 +138,7 @@ https://user-images.githubusercontent.com/74517218/201505100-c3cab098-0ccb-445e-
 
 This is a mock restaurant website that is dynamically rendered using JavaScript.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
 
 
 ### Calculator 
@@ -146,7 +147,7 @@ https://user-images.githubusercontent.com/74517218/201505173-f534879a-2566-41d0-
 
 This is a calculator written from scratch in JavaScript and styled using pure CSS.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_5_calculator/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_5_calculator/) 
 
 
 ### Weather App 
@@ -155,7 +156,7 @@ https://user-images.githubusercontent.com/74517218/201505335-b7143799-6276-40b5-
 
 This app uses a third part API to fetch weather data from any city in the word.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_5_weather_app/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_5_weather_app/) 
 
 
 ### Rock Paper Scissors 
@@ -164,7 +165,7 @@ https://user-images.githubusercontent.com/74517218/201505390-eef2fbd3-23da-42f5-
 
 This is an interactive rock-paper-scissors game written in JavaScript.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) 
 
 
 ### Google Clone 
@@ -173,4 +174,4 @@ https://user-images.githubusercontent.com/74517218/201505504-3fc0eccf-f83c-4850-
 
 This is my attempt at creating a pixel-perfect clone of the Google search homepage using nothing but HTML and CSS.
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_2_google_homepage/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_2_google_homepage/) 
