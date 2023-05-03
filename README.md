@@ -3,7 +3,7 @@
 
 ## 👋&nbsp; Hi, I'm Jonathan
 
-Thanks for visiting my GitHub page! I am an aspiring web developer based in Metro Vancouver, British Columbia, Canada. I began learning web and application development after falling in love with the idea of being able to constantly learn new skills to become a master of my craft. Being a self taught developer isn't easy, but the fulfillment I receive from crafting a piece of code, website, or system that simply works is what keeps me going. I'm looking for any opportunity to round out my skills and broaden my horizons.
+Thanks for visiting my GitHub page! I am a web developer based in Metro Vancouver, British Columbia, Canada. This Github page contains all of the projects I have created.
 
 What I use daily &nbsp;🕑 :<br/>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)&nbsp;![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
@@ -134,8 +134,8 @@ https://user-images.githubusercontent.com/74517218/201505039-3ae51c1f-3256-4abd-
 
 This project is a game that tests your short term memory.  
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_9_memory_card/) 
-
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_9_memory_card/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_9_memory_card)  
 
 ### Restaurant Website
 
@@ -143,7 +143,8 @@ https://user-images.githubusercontent.com/74517218/201505100-c3cab098-0ccb-445e-
 
 This is a mock restaurant website that is dynamically rendered using JavaScript.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_3_restaurant_page/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_3_restaurant_page/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_3_restaurant_page)  
 
 
 ### Calculator 
@@ -152,7 +153,8 @@ https://user-images.githubusercontent.com/74517218/201505173-f534879a-2566-41d0-
 
 This is a calculator written from scratch in JavaScript and styled using pure CSS.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_5_calculator/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_5_calculator/)  
+[Code repository](https://github.com/jonro2955/odin_foundations_5_calculator)  
 
 
 ### Weather App 
@@ -161,7 +163,8 @@ https://user-images.githubusercontent.com/74517218/201505335-b7143799-6276-40b5-
 
 This app uses a third part API to fetch weather data from any city in the word.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_5_weather_app/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_5_weather_app/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_5_weather_app)  
 
 
 ### Rock Paper Scissors 
@@ -170,7 +173,8 @@ https://user-images.githubusercontent.com/74517218/201505390-eef2fbd3-23da-42f5-
 
 This is an interactive rock-paper-scissors game written in JavaScript.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_3_rock_paper_scissors/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_9_memory_card)  
 
 
 ### Google Clone 
@@ -179,4 +183,5 @@ https://user-images.githubusercontent.com/74517218/201505504-3fc0eccf-f83c-4850-
 
 This is my attempt at creating a pixel-perfect clone of the Google search homepage using nothing but HTML and CSS.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_2_google_homepage/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_2_google_homepage/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_9_memory_card)  
