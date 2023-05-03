@@ -60,8 +60,8 @@ https://user-images.githubusercontent.com/74517218/201501836-0780e8f5-6e89-4e9d-
 This full stack web application uses React, Firebase and a 3rd party API called The Movie Database (TMDB) to allow users to search, review, and save
 movies from over 800,000 titles.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mmdb-97518.web.app) 
-
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mmdb-97518.web.app)  
+[Code repository](https://github.com/jonro2955/odin_javascript_12_mmdb)  
 
 ### AI Tic Tac Toe 
 
@@ -69,8 +69,8 @@ https://user-images.githubusercontent.com/74517218/201502603-7f05394a-e362-4ba3-
 
 This tic-tac-toe game uses the minimax algorithm in JavaScript to power the computer player's AI and gives the user 3 difficulty settings.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_2_tictactoe/) 
-
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_2_tictactoe/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_2_tictactoe)  
 
 ### Where's Waldo? 
 
@@ -78,8 +78,8 @@ https://user-images.githubusercontent.com/74517218/201502748-2132caf8-f26a-4e4c-
 
 This app implements an interactive version of the "Where's Waldo?" game book, where players try to find things hidden inside of a picture.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/) 
-
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_11_wheres_waldo/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_11_wheres_waldo)  
 
 ### Battleship 
 
@@ -87,8 +87,8 @@ https://user-images.githubusercontent.com/74517218/201502862-d742825f-6fe6-45c9-
 
 This is an interactive battleship game. It features a drag and drop ship placement interface and a semi-smart computer opponent.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/) 
-
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_7_battleship_2.0/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_7_battleship_2.0)  
 
 ### Etch A Sketch 
 
@@ -96,8 +96,8 @@ https://user-images.githubusercontent.com/74517218/201503144-745c6b86-c541-4df8-
 
 This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/) 
-
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_foundations_4_etch_a_sketch/)  
+[Code repository](https://github.com/jonro2955/odin_foundations_4_etch_a_sketch)  
 
 ### CV Application 
 
@@ -105,8 +105,8 @@ https://user-images.githubusercontent.com/74517218/201503327-e7c946e8-30a5-4f42-
 
 This is a resume template built using React. Each part can be conveniently edited and the document can then be saved as a PDF inside the user's local computer.
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_8_cv_application/)
-
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_8_cv_application/) 
+[Code repository](https://github.com/jonro2955/odin_javascript_8_cv_application)  
 
 ### Library App 
 
@@ -114,7 +114,8 @@ https://user-images.githubusercontent.com/74517218/201503574-5a550e44-6325-411f-
 
 This is a virtual library app that allows users to store book information either on the user's device memory or in the cloud. 
 
-[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javaScript_1_library/) 
+[![website up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javaScript_1_library/)  
+[Code repository](https://github.com/jonro2955/odin_javaScript_1_library)  
 
 
 ### To Do List 
@@ -123,7 +124,8 @@ https://user-images.githubusercontent.com/74517218/201503797-3b867db8-1020-4206-
 
 This is a web app that lets users create to-do lists and store them in the cloud using their Google, Facebook, or Github accounts.  
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_4_todo_list/) 
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/odin_javascript_4_todo_list/)  
+[Code repository](https://github.com/jonro2955/odin_javascript_4_todo_list)  
 
 
 ### Memory Card Game 
