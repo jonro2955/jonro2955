@@ -96,7 +96,7 @@ This is a web based etch-a-sketch drawing toy built using plain HTML, CSS and JS
 https://user-images.githubusercontent.com/74517218/201503327-e7c946e8-30a5-4f42-a479-0ecc40dc063f.mp4
 
 This is a resume template built using React. Each part can be conveniently edited and the document can then be saved as a PDF inside the user's local computer.  
-[Live Site](https://jonro2955.github.io/odin_javascript_8_cv_application/) 
+[Live Site](https://jonro2955.github.io/odin_javascript_8_cv_application/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_8_cv_application)  
 
 ### Library App: 
