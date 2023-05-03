@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-
 This PERN stack (Postgres, Express, React, Node) application allows job seekers to save the details of each job application they make while searching for a job. Unlike a typical spreadsheet, this application provides users a custom interface that is optimized for managing such data. For each job application, it will store the job description, URLs, research notes, dates, resumes, cover letters and more in a Postgres databse, which can then be searched, filtered, viewed and edited from a user-friendly React front end.
 
 <!-- [![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/job-tracker-client/)   -->
-[Front end code repository](https://jonro2955.github.io/job-tracker-client/)  
+[Front end code repository](https://github.com/jonro2955/job-tracker-client)  
 [Back end code repository](https://github.com/jonro2955/job-tracker-server)  
 
 
