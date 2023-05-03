@@ -41,6 +41,10 @@ This PERN stack (Postgres, Express, React, Node) application allows job seekers 
 
 [![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonro2955.github.io/job-tracker-client/)
 
+Front end repo: [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jonro2955.github.io/job-tracker-client/)
+
+Back end repo: [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonro2955/job-tracker-server)
+
 
 ### My PC Store
 
