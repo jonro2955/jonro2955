@@ -35,7 +35,7 @@ Things I've used before &nbsp;🛠 :<br/> ![Sass](https://img.shields.io/badge/S
 
 ### Job Tracker: 
  
-https://user-images.githubusercontent.com/74517218/201500188-8cb57f26-d920-42a0-bf0b-267b9811ebef.mp4
+https://user-images.githubusercontent.com/74517218/236144190-0f15839f-41b5-471c-8458-fa22d84d50e3.mp4
 
 This PERN stack (Postgres, Express, React, Node) application allows job seekers to save the details of each job application they make while searching for a job. Unlike a typical spreadsheet used by many job seekers, this application provides users a convenient browser interface that makes it easy to store and view such data. It will store data such as the company names, job titles, job descriptions, URLs, research notes, dates, resumes, cover letters and more. In addition, it provides powerful search and fitering capabilities that helps to speed up tedious tasks.  
 [Code Repository](https://github.com/jonro2955/job-tracker-full-stack)  
