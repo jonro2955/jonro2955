@@ -127,7 +127,7 @@ This project is a game that tests your short term memory.
 
 https://user-images.githubusercontent.com/74517218/201505100-c3cab098-0ccb-445e-9646-979f1beb5ff9.mp4
 
-This is a mock restaurant website that is dynamically rendered using JavaScript.  
+This is a sample restaurant website that is dynamically rendered using vanilla JavaScript.  
 [Live Site](https://jonro2955.github.io/odin_javascript_3_restaurant_page/)  
 [Code Repository](https://github.com/jonro2955/odin_javascript_3_restaurant_page)  
 
